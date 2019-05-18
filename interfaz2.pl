@@ -464,7 +464,7 @@ new(TxtDescrip,text_item('Descripcion:
 send(W,display,Imagen4,point(420,146)),
 
 
- new(BtnAgregar,button('Introducir tenis al sistema',message(@prolog,guardarTenis,ComboPresupu?selection,ComboCategoria?selection,ComboMaterial?selection,ComboAltura?selection,ComboTipo?selection,ComboDeport?selection,ComboColor?selection, TxtDescrip?selection, TxtVariable?selection))),
+ new(BtnAgregar,button('Introducir tenis al sistematt',message(@prolog,guardarTenis,ComboPresupu?selection,ComboCategoria?selection,ComboMaterial?selection,ComboAltura?selection,ComboTipo?selection,ComboDeport?selection,ComboColor?selection, TxtDescrip?selection, TxtVariable?selection))),
 
 
     	
